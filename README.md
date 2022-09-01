@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kobir</h1>
-<h3 align="center">I am a Software Engineer at Inspiring Bangladesh Ltd. I am working on the Android application framework.</h3>
+<h3 align="center">I am a Software Engineer at Kolpolok Ltd. I am working on the Android application framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkobir&label=Profile%20views&color=0e75b6&style=flat" alt="hkobir" /> </p>
 
