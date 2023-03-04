@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hkobir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hkobir/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Gitthub state:</h3>
+<h3 align="left">Engaged with git:</h3>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hkobir&show_icons=true&theme=dark#gh-dark-mode-only)
 
