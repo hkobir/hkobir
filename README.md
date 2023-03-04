@@ -8,7 +8,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hkobir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hkobir/" height="30" width="40" /></a>
 </p>
 
-https://github-readme-stats.vercel.app/api?username=hkobir&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+<h3 align="left">Gitthub state:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir&show_icons=true&theme=dark)]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hkobir&theme=dark)](https://git.io/streak-stats)
 
