@@ -9,7 +9,8 @@
 </p>
 
 <h3 align="left">Gitthub state:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir&show_icons=true&theme=dark)]
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hkobir&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hkobir&theme=dark)](https://git.io/streak-stats)
 
